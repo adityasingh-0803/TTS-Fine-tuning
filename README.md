@@ -12,7 +12,7 @@ Audio samples: [https://styletts2.github.io/](https://styletts2.github.io/)
 - [x] Test training code for multi-speaker models (VCTK and LibriTTS)
 - [x] Finish demo code for multispeaker model and upload pre-trained models
 - [x] Add a finetuning script for new speakers with base pre-trained multispeaker models
-- [ ] Fix DDP (accelerator) for `train_second.py` **(I have tried everything I could to fix this but had no success, so if you are willing to help, please see [#7](https://github.com/yl4579/StyleTTS2/issues/7))**
+- [ ] Fix DDP (accelerator) for `train_second.py`
 
 ## Pre-requisites
 1. Python >= 3.7
