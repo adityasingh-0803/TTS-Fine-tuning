@@ -1,0 +1,8 @@
+##Conclusion
+In this notebook, we successfully downloaded and prepared a high-quality TTS dataset for the German language. Key steps included:
+Dataset Acquisition: We retrieved the HUI Audio Corpus, ensuring a rich collection of transcribed audio.
+Data Structuring: We reorganized the dataset into a format suitable for training, creating separate training and validation subsets.
+Tokenizer Training: We generated a tokenizer tailored for the German language, allowing for accurate text representation during model training.
+Audio Preprocessing: We ensured that all audio files were resampled to a consistent sampling rate of 22.05kHz.
+Fine-Tuning: Finally, we fine-tuned an autoregressive model using the prepared dataset and configurations.
+This process equips us with a model that can generate German speech, demonstrating the potential of TTS technology for diverse applications.
